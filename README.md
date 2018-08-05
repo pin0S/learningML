@@ -1,7 +1,7 @@
 # Learning Machine learning in 100 days
 This is my curriculum for learning Machine Learning, built from Siraj Ravals #100daysofMLcode. The curriculum starts from scratch in terms of Math, however assumes some python knowledge.
 
-
+I am going to be documenting my journey you can follow along on my [instagram](https://www.instagram.com/pinos/) and on [plant based programmer](http://plantbasedprogrammer.com/).
 
 ## Math
 
