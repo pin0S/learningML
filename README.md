@@ -3,8 +3,10 @@ This is my curriculum for learning Machine Learning, built from Siraj Ravals #10
 
 I am going to be documenting my journey you can follow along on my [instagram](https://www.instagram.com/pinos/) and on [plant based programmer](http://plantbasedprogrammer.com/).
 
+
 ## Math
 
+Useful resource: [Understanding math](http://www.math.utah.edu/~pa/math.html)
 
 ### Linear Algebra: Days 1-7 
 
