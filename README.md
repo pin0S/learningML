@@ -10,7 +10,7 @@ Useful resource: [Understanding math](http://www.math.utah.edu/~pa/math.html)
 
 ### Linear Algebra: Days 1-7 
 
-Firstly jump into Andrew Ng's course and see how far you get before you need to check up linear algebra. This lets you measure what you don't know and how much you have to improve.
+Firstly jump into Andrew Ng's course and see how far you get before you jump into the linear algebra resources. This lets you measure what you don't know and how much you have to improve.
 
 1. Andrew Ng's course (https://www.coursera.org/learn/machine-learning) see how far you can get in week 1 before needing to check out the below two links 
 2. [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
