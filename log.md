@@ -60,3 +60,9 @@ Today's Progress: Had my first quiz in the course, got 4/5 the first time and th
 Thoughts: Again I know it is going to get harder but the progress from my first failed attempt to now is great! I'm concerned
 my python skills are going to drop off while I'm working through the math so I'm ensuring I'm doing pybites challenges and 
 trying to help other learners.
+
+## Day 7: August 12, 2018
+
+Today's Progress: Started Week 2 of Coursea course and working through matrices multiplication. 
+
+Thoughts:Short day, with city to surf run. Looking forward to smashing through this week and really testing where I am. 
