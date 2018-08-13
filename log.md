@@ -66,3 +66,10 @@ trying to help other learners.
 Today's Progress: Started Week 2 of Coursea course and working through matrices multiplication. 
 
 Thoughts:Short day, with city to surf run. Looking forward to smashing through this week and really testing where I am. 
+
+## Day 8: August 13, 2018
+
+Today's Progress: Powering through week 2, finished all the multivariate section. 
+
+Thoughts: I will need to review matrices on Khan academy tonight to make sure I understand how matrices multiplication works. 
+I am also hoping to get through to week three so that I am still on track with calculus. I've definitely changed my structure in terms of what is working best. Rather than purely learning the maths, I'm finding it best to go through Andrew's course and then supplement math when I don't understand. This allows me to just learn what I need to learn cutting down a lot of time and helping me focus on what's important. 
