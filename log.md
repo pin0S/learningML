@@ -73,3 +73,17 @@ Today's Progress: Powering through week 2, finished all the multivariate section
 
 Thoughts: I will need to review matrices on Khan academy tonight to make sure I understand how matrices multiplication works. 
 I am also hoping to get through to week three so that I am still on track with calculus. I've definitely changed my structure in terms of what is working best. Rather than purely learning the maths, I'm finding it best to go through Andrew's course and then supplement math when I don't understand. This allows me to just learn what I need to learn cutting down a lot of time and helping me focus on what's important. 
+
+## Day 9: August 14, 2018
+
+Today's Progress: Week 2 all done from a maths stand point, only the octave videos to go through
+
+Thoughts: Although I know Python is the main programming language for ML, I'm excited to get a look at another languages syntax. Math keeps being exciting to me, I often consider doing some part time study for it just not sure if that is where I should be investing my time. 
+
+## Day 10: August 15, 2018
+
+Today's Progress: Quiz passed, took until attempt 3 to get 5 out of 5 and I know I will fail but I won't ever quit.
+
+Thoughts: Really happy I passed was concerned about linear alegra. Although I think I have only touched the sides of the course, my main aim is to get to where I am training my own models as quickly as possible as that is how I learn best. 
+
+I may have said this already but 3Blue1Brown is such a fantastic resources, that dude is amazing. 
