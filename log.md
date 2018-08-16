@@ -87,3 +87,12 @@ Today's Progress: Quiz passed, took until attempt 3 to get 5 out of 5 and I know
 Thoughts: Really happy I passed was concerned about linear alegra. Although I think I have only touched the sides of the course, my main aim is to get to where I am training my own models as quickly as possible as that is how I learn best. 
 
 I may have said this already but 3Blue1Brown is such a fantastic resources, that dude is amazing. 
+
+
+## Day 11: August 16, 2018
+
+Today's Progress: I had to revisit Octave, the syntax wasn't clear 
+
+Thoughts: I definitely rushed through that section, key learning and I keep saying this is been patient. If I look at how far I've come from day 1 it is already crazy progress so no need to rush obviously this is longer than a 100 day journey it will gone on long after I've finsihed my 100 day log. 
+
+Looking forward to the weekend with friends, although a little melancholy I won't be able to dedicate 8 hours + to ML. I will still get my 1-2 hours in. 
