@@ -96,3 +96,21 @@ Today's Progress: I had to revisit Octave, the syntax wasn't clear
 Thoughts: I definitely rushed through that section, key learning and I keep saying this is been patient. If I look at how far I've come from day 1 it is already crazy progress so no need to rush obviously this is longer than a 100 day journey it will gone on long after I've finsihed my 100 day log. 
 
 Looking forward to the weekend with friends, although a little melancholy I won't be able to dedicate 8 hours + to ML. I will still get my 1-2 hours in. 
+
+## Day 12: August 17, 2018
+
+Today's Progress: Finished going through Octave at the airport
+
+Thoughts: THe syntax is fine as always you have to google things and look up the documentation as you go. Won't get heaps donw over the weekend as I'm catching up with the guys in Melbourne. 
+
+## Day 13 & 14: August, 18 & 19, 2018
+
+Progress: Spent time just going through Sentdex starcraft tutorial as that is the area of deep learning the excited me to get into Machine learning
+
+Thoughts: A lessoned learned for this up comming weekend in which I have Pycon AU I need to get up early to go through my study so that I can also enjoy Pycon with out worrying where I will fit the time in for study. 
+
+## Day 15: August 20, 2018
+
+Today's Progress: Assignemnt done (except the optional part which I will do during the week) onto week 3 Logistic regression
+
+Thoughts: Often I feel like I'm not getting anywhere or learning what I should be. I constantly struggle with the thought of trying another course and then may be it will all click. But I need to keep reminding myself that before I started I wasn't sure what gradient descent was or what logisic regression was. Paitence, Paitence and Paitence is what I need to keep preaching to myself. 
