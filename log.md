@@ -114,3 +114,13 @@ Thoughts: A lessoned learned for this up comming weekend in which I have Pycon A
 Today's Progress: Assignemnt done (except the optional part which I will do during the week) onto week 3 Logistic regression
 
 Thoughts: Often I feel like I'm not getting anywhere or learning what I should be. I constantly struggle with the thought of trying another course and then may be it will all click. But I need to keep reminding myself that before I started I wasn't sure what gradient descent was or what logisic regression was. Paitence, Paitence and Paitence is what I need to keep preaching to myself. 
+
+## Day 16: August 21, 2018
+
+Today's Progress: Started on Classification and logistic regression. Within that I learnt how to represent the hypothesis which is different to logistic regression as we now use the sigmoid function. I also learnt about the decision boundary which is essentially the line that seperates the area where y=0 and where y=1. Now I am working on the cost function of linear regression. 
+
+Thoughts: I haven't really felt like I don't understand anything in the course yet. I think it is more the granularity that I don't have particularly with the maths. I am giving strong consideration to taking the udacity maths for machine learning course in parallel to the current course. 
+
+It is important to not have limiting thoughts, I keep it positive and reinforce it by telling myself anyone can learn this and I just have to break it down into a way I understand. 
+
+Machine learning and AI has me so excited for my future and while I still love marketing the dream would be to find a nice cross over point. 
