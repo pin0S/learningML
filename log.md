@@ -124,3 +124,17 @@ Thoughts: I haven't really felt like I don't understand anything in the course y
 It is important to not have limiting thoughts, I keep it positive and reinforce it by telling myself anyone can learn this and I just have to break it down into a way I understand. 
 
 Machine learning and AI has me so excited for my future and while I still love marketing the dream would be to find a nice cross over point. 
+
+## Day 17: August 22, 2018
+
+Today's Progress: Continued working through week 3, primairyly on advanced optimisation and multiclass classification. 
+
+Thoughts: Was a bit tired today and my mind kept jumping around, I know I will get there and I have come so far there is just always that little bit of doubt in the mind. 
+
+## Day 18: August 23, 2018
+
+Today's Progress: Finished part 1 of week 3 and bombed the test. Not sure if it was because I was rushing or because I didn't understand the course material.
+
+Thoughts: The concept of Machine learning and in this instance classification is fine I feel like I understand what the algorithm is trying to achieve and why. 
+
+What I need to better understand and be more confident in is reading the equation. I'm going to devert more time on math than I have been to ensure I understand what is happening so that when I hit the tests, I'm not uncertain about what is happening. I'm also going to spend a little bit of time on the forums also to see if others are running into the same issues and then see how they solved them.
