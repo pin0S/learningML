@@ -138,3 +138,15 @@ Today's Progress: Finished part 1 of week 3 and bombed the test. Not sure if it 
 Thoughts: The concept of Machine learning and in this instance classification is fine I feel like I understand what the algorithm is trying to achieve and why. 
 
 What I need to better understand and be more confident in is reading the equation. I'm going to devert more time on math than I have been to ensure I understand what is happening so that when I hit the tests, I'm not uncertain about what is happening. I'm also going to spend a little bit of time on the forums also to see if others are running into the same issues and then see how they solved them.
+
+## Day 19: August 24, 2018
+
+Today's Progress: Spent time on Linear Algebra and watching sentdex star craft tutorial
+
+Thoughts: By the end of the working week I'm pretty tired, I really notice it  by how deep of a sleep I am in when I wake up. I'm thinking I need to do some push ups or something to get my brain humming. 
+
+The more I think about I think I need to be working on a project that excited me, sentdex made a fantastic point that one of the best ways to learn about anything is start and when you don't know what something is, go away learn it and then come back and see if you understand it. I guess that is sort of what I am doing right now with AN's course. 
+
+I'm thinking about building my own card game and getting my deep learning machine to play games against itself. Although maybe to start I'm better off starting with some Atari games. 
+
+One of my 100 days of code responders, had a great thought - 'Progress is progress'. 
