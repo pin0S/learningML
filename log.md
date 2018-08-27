@@ -150,3 +150,21 @@ The more I think about I think I need to be working on a project that excited me
 I'm thinking about building my own card game and getting my deep learning machine to play games against itself. Although maybe to start I'm better off starting with some Atari games. 
 
 One of my 100 days of code responders, had a great thought - 'Progress is progress'. 
+
+## Day 20: August 25, 2018
+
+Today's Progreess: Went to Pyconau today and listened to some interesting talks on how Python is used in Games, using Python to automate excel and how machine learning is effecting art. 
+
+Thoughts: The artwork talk blew my mind and continued to inspire me to learn machine learning. The speaker talked about GANs and transfer learning to create otherworldly images. I'm definitely going to try this on a data set. 
+
+## Day 21: August 26, 2018
+
+Today's Progress: Pyconau Day 2, heard some more interesting talks and worked on my 100 days of code book
+
+Thoughts: The talk by Tracy really inspired me to try and learn by doing and be happy to fail which I think I am after getting started on my book. It also made me realise I need to find a corner stone project for my machine learning - I am leaning on a Deep learning bot and making a chatbot using south park scripts probably Cartman, which I think would make a great tutorial. 
+
+## Day 22: August 27, 2018
+
+Today's Progress: Today I set up the Kanban post it note system to help me stay on task, I also did some more Vectors study. 
+
+Thoughts: Setting up the Kanban with key learning objects will help speed up my time I need to learn the math of machine learning by keeping me on task.I also left my keys at home the one night Rosie wasn't home before me and was actually at the movies until 9pm! So I sat in Grilld and read an 'introduction to machine learning with python' which had some interesting points binary classiication and what overfitting and underfitting are. The later was really interesting as we I worked in consulting I'd hear the analyst talk about ti but I never truely understood what they were talking about now I do :). 
