@@ -175,3 +175,10 @@ Thoughts: Setting up the Kanban with key learning objects will help speed up my 
 Today's progress: Today I continued with the coursera ML course, I passed the WK 3 half way quiz although I found it quite difficult and only got 4/5 so some work needs to be done to better understand logistic regression. I then moved onto part 2 of week 3 overfitting and regularisation. 
 
 Thoughts: Supplementing my work with the ML book was really helpful, reading about over fitting before I actually tackeled it in the course was really helpful in me understanding the topic. Regularisation is the next thing I need to read up about. On a side note the 100 days of code book is up to 13 people committed to helping +1 if you include Glyn but I doubt he does it. 
+
+
+## Day 24: August 29, 2018
+
+Today's progess: Two sections of overfitting and regularisation done. Making sure I take good notes and that I understand the content as best I can. 
+
+Thoughts: I need to supplement more of my learning, going to get some OCdevL syllabus materials and share those with my instagram followers. The course what give me everything I need as I am quite far behind in terms of the knowledge I need from this field. Thus I need to use other resources to beef out my learning.  
