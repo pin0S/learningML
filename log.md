@@ -168,3 +168,10 @@ Thoughts: The talk by Tracy really inspired me to try and learn by doing and be 
 Today's Progress: Today I set up the Kanban post it note system to help me stay on task, I also did some more Vectors study. 
 
 Thoughts: Setting up the Kanban with key learning objects will help speed up my time I need to learn the math of machine learning by keeping me on task.I also left my keys at home the one night Rosie wasn't home before me and was actually at the movies until 9pm! So I sat in Grilld and read an 'introduction to machine learning with python' which had some interesting points binary classification and what overfitting and underfitting are. The later was really interesting as we I worked in consulting I'd hear the analyst talk about ti but I never truely understood what they were talking about now I do :). 
+
+
+## Day 23: August 28, 2018
+
+Today's progress: Today I continued with the coursera ML course, I passed the WK 3 half way quiz although I found it quite difficult and only got 4/5 so some work needs to be done to better understand logistic regression. I then moved onto part 2 of week 3 overfitting and regularisation. 
+
+Thoughts: Supplementing my work with the ML book was really helpful, reading about over fitting before I actually tackeled it in the course was really helpful in me understanding the topic. Regularisation is the next thing I need to read up about. On a side note the 100 days of code book is up to 13 people committed to helping +1 if you include Glyn but I doubt he does it. 
