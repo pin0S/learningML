@@ -182,3 +182,21 @@ Thoughts: Supplementing my work with the ML book was really helpful, reading abo
 Today's progess: Two sections of overfitting and regularisation done. Making sure I take good notes and that I understand the content as best I can. 
 
 Thoughts: I need to supplement more of my learning, going to get some OCdevL syllabus materials and share those with my instagram followers. The course what give me everything I need as I am quite far behind in terms of the knowledge I need from this field. Thus I need to use other resources to beef out my learning.  
+
+## Day 25: August 30, 2018
+
+c Completed the regularisation quiz on my second attempt, I feel I understand overfitting and underfitting well. I also started the week 3 assignment and had no idea what I was doing! 
+
+Thoughts: I'm not sure if it is the octave syntax or my just not learning the materials well enough but I sturggle to do the assignments. I took something from rewatching Jabrils how to learn machine learning video and that was, when I don't understand something - I should go and research it independently until I do understand it. 
+
+## Day 25: August 31, 2018
+
+Today's progress: Continued with the quiz, but this time I'm writing out my solutions in my notes and making sure I really understand what is happening with the code and as yesterday mentioned, when I don't understand something I make sure I go and research it independently so tomorrow I am going to look into what transpose is and thus do more work on linear alegbra. 
+
+Thoughts: I wanted to rush through and get to deep learning as quick as possible, unfortunately I am going to have to take my time a little more to make sure I understand the concepts. The postive of this is I can keep all those notes in my onenote and book and then write about them to help others, hopefully I can be a bit of a pioneer in the space (no coding and no machine learning/math of machine learning knowledge) and thus encourage others to give it a go. 
+
+## Day 26: September 1, 2018
+
+Today's progress: Not huge amounts of progress today I spent most of the morning understanding what is happening in 1.2.2 of the assignment. Determined to do more of it tomorrow. 
+
+Thoughts: I had a great time walking with my partner and her friends from the split bridge to Manly. Getting outside and doing positive things for myself is so rewarding. I also had the chance to chat to Darren someone who has just completed their masters in computer science majoring in ai. He gave me some fantastic insight and the chat really excited me, which is a real positive in my mind as I was passionate and keenly interested in what he had to say about the field. It really hit home for me that this is an area I am deeply interested in and want to become more involved in. 
