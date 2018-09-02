@@ -200,3 +200,15 @@ Thoughts: I wanted to rush through and get to deep learning as quick as possible
 Today's progress: Not huge amounts of progress today I spent most of the morning understanding what is happening in 1.2.2 of the assignment. Determined to do more of it tomorrow. 
 
 Thoughts: I had a great time walking with my partner and her friends from the split bridge to Manly. Getting outside and doing positive things for myself is so rewarding. I also had the chance to chat to Darren someone who has just completed their masters in computer science majoring in ai. He gave me some fantastic insight and the chat really excited me, which is a real positive in my mind as I was passionate and keenly interested in what he had to say about the field. It really hit home for me that this is an area I am deeply interested in and want to become more involved in. 
+
+## Day 27: September 2, 2018
+
+Today's progress: Again not a lot of progress today a little more work on the assigment.
+
+Thoughts: I'm letting myself down on the weekends and I think it's potentially because I'm telling myself I will have all day to study. Instead I need to be coming into the weekend with a plan of what I need to learn and the goals for that learning. So right now I know I need to better understand how gradient descent, cost function all work to produce what we are doing in octave. I have some books to supplement that now. 
+
+## Day 28: September 3, 2018
+
+Today's Progress: Finished the assignment was hard! Also found this awesome series on logistic regression https://www.youtube.com/watch?v=vN5cNN2-HWE.
+
+Thoughts: 
