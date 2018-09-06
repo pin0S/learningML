@@ -189,26 +189,44 @@ c Completed the regularisation quiz on my second attempt, I feel I understand ov
 
 Thoughts: I'm not sure if it is the octave syntax or my just not learning the materials well enough but I sturggle to do the assignments. I took something from rewatching Jabrils how to learn machine learning video and that was, when I don't understand something - I should go and research it independently until I do understand it. 
 
-## Day 25: August 31, 2018
+## Day 26: August 31, 2018
 
 Today's progress: Continued with the quiz, but this time I'm writing out my solutions in my notes and making sure I really understand what is happening with the code and as yesterday mentioned, when I don't understand something I make sure I go and research it independently so tomorrow I am going to look into what transpose is and thus do more work on linear alegbra. 
 
 Thoughts: I wanted to rush through and get to deep learning as quick as possible, unfortunately I am going to have to take my time a little more to make sure I understand the concepts. The postive of this is I can keep all those notes in my onenote and book and then write about them to help others, hopefully I can be a bit of a pioneer in the space (no coding and no machine learning/math of machine learning knowledge) and thus encourage others to give it a go. 
 
-## Day 26: September 1, 2018
+## Day 27: September 1, 2018
 
 Today's progress: Not huge amounts of progress today I spent most of the morning understanding what is happening in 1.2.2 of the assignment. Determined to do more of it tomorrow. 
 
 Thoughts: I had a great time walking with my partner and her friends from the split bridge to Manly. Getting outside and doing positive things for myself is so rewarding. I also had the chance to chat to Darren someone who has just completed their masters in computer science majoring in ai. He gave me some fantastic insight and the chat really excited me, which is a real positive in my mind as I was passionate and keenly interested in what he had to say about the field. It really hit home for me that this is an area I am deeply interested in and want to become more involved in. 
 
-## Day 27: September 2, 2018
+## Day 28: September 2, 2018
 
 Today's progress: Again not a lot of progress today a little more work on the assigment.
 
 Thoughts: I'm letting myself down on the weekends and I think it's potentially because I'm telling myself I will have all day to study. Instead I need to be coming into the weekend with a plan of what I need to learn and the goals for that learning. So right now I know I need to better understand how gradient descent, cost function all work to produce what we are doing in octave. I have some books to supplement that now. 
 
-## Day 28: September 3, 2018
+## Day 29: September 3, 2018
 
 Today's Progress: Finished the assignment was hard! Also found this awesome series on logistic regression https://www.youtube.com/watch?v=vN5cNN2-HWE.
 
-Thoughts: 
+Thoughts: Revisit the math and supplement it with books
+
+## Day 30: September 4, 2018
+
+Today's Progress: Continued week 4 of Andrew Ng's course looking a neural networks
+
+Thoughts: Today the math hit hard! I understood the basic concept of a neural network and how all the inputs feed into the hidden layer that is used to produce the hypothesis. However, I did not understand the calculations behind it and was a bit thrown by the course. So I've made the decision to really focus this week on linear algebra. I want to move all the pink post its to the learnt side. 
+
+## Day 31: September 5, 2018
+
+Today's Progress: Started taking linear algebra notes on my one note so I have a resource I can look back to
+
+Thoughts: A combination of books, short form videos and effective not taking work the best for me. Also slowing down videos instead of trying to watch them at 2x is much better for me. I just don't take it in a 2x or probably even 1.5x so I end up rewatching the video thus making my study even more ineffective. 
+
+## Day 32: September 6, 2018
+
+Today's Progress: Moved the linear independence, basis and dimension post it to the right and I think tonight dot ptoduct, modulus and negation will be moved! 
+
+Thoughts: Make sure I include this video https://www.youtube.com/watch?v=eeMJg4uI7o0 in my notes to help others. Dr. Strang explains things wonderfully. Also add more tonight after studying! 
