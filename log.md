@@ -227,6 +227,12 @@ Thoughts: A combination of books, short form videos and effective not taking wor
 
 ## Day 32: September 6, 2018
 
+Today's Progress: Did not do much today, minimal 15 - 30 minutes at best on linear algebra. 
+
+Thoughts: The 10pm work night ruined me! I needed to be more disciplined when I got up at 6am and ensured I did some study. Progress is Progress after all. 
+
+## Day 33: September 6, 2018
+
 Today's Progress: Moved the linear independence, basis and dimension post it to the right and I think tonight dot ptoduct, modulus and negation will be moved! 
 
 Thoughts: Make sure I include this video https://www.youtube.com/watch?v=eeMJg4uI7o0 in my notes to help others. Dr. Strang explains things wonderfully. Also add more tonight after studying! 
