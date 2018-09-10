@@ -231,8 +231,26 @@ Today's Progress: Did not do much today, minimal 15 - 30 minutes at best on line
 
 Thoughts: The 10pm work night ruined me! I needed to be more disciplined when I got up at 6am and ensured I did some study. Progress is Progress after all. 
 
-## Day 33: September 6, 2018
+## Day 33: September 7, 2018
 
 Today's Progress: Moved the linear independence, basis and dimension post it to the right and I think tonight dot ptoduct, modulus and negation will be moved! 
 
 Thoughts: Make sure I include this video https://www.youtube.com/watch?v=eeMJg4uI7o0 in my notes to help others. Dr. Strang explains things wonderfully. Also add more tonight after studying! 
+
+## Day 34: September 8, 2018
+
+Today's Progress: Day dedicated to learning about matrix on khan academy
+
+Thoughts: Although it feels like a backwards step, it is ok to work on the basics. I also enjoy reading and watching AI content. I have a genuine interest in this area, the thought of working withAI and building AI gives me serious excitment. 
+
+## Day 34: September 9, 2018
+
+Today's Progress: Continued to dedicated the day to learning about matrix on khan academy
+
+Thoughts: I really enjoy math, I wish I had pursued it more in Univeristy. There is not time like the present I guess. 
+
+## Day 35: September 10, 2018
+
+Today's Progress: Nearly there with matrix got up at 5am to work on it should be done by tomorrow
+
+Thoughts: It is interesting on the days that I don't actually look at any machine learning content and just focus on the math I still enjoy it. Really enjoy it. I just can't wait until I'm creating my own analysis and solving my own problems. Although I know it will take time.
