@@ -254,3 +254,17 @@ Thoughts: I really enjoy math, I wish I had pursued it more in Univeristy. There
 Today's Progress: Nearly there with matrix got up at 5am to work on it should be done by tomorrow
 
 Thoughts: It is interesting on the days that I don't actually look at any machine learning content and just focus on the math I still enjoy it. Really enjoy it. I just can't wait until I'm creating my own analysis and solving my own problems. Although I know it will take time.
+
+## Day 36: September 11, 2018
+
+Today's Progress: All done with matrices basics finished them tonight passed tests and ready to dive back into linear algebra. 
+
+Thoughts: Feeling great about maths, you know when you have those moments when everything is click and making sense after the accumulation of hours of frustrated study...that is me right now. I need to remember that feeling. I'm not going to lie for a while there I've definitely thought as one is want to do, that I couldn't learn ML, that perhaps it was above me. However, it's not anyone can learn anything you just have to work hard to achieve it. 
+
+I was still feeling quite tired from the range review presentation at work yesterday so studying at night and getting the motivation was hard, but I managed to get through that feeling and put in some good study. 
+
+## Day 37: September 11, 2018
+
+Today's progress: Quick review of vector basics to make sure I understand basic operations, then back into linear alegbra finalising dot and cross product and ready to move into Matrices in linear algebra :)
+
+Thoughts: This [video](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3) = the best video for helping you to understand linear transformations! I just couldn't conceptualise it from reading Strang or even Khan academy then bam! I better understood it, although I don't doubt I will have to watch it again. This shows me that utilising a combo of resources is how I learn, I need to view something from differnet angles to better understand it. 
