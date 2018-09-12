@@ -243,19 +243,19 @@ Today's Progress: Day dedicated to learning about matrix on khan academy
 
 Thoughts: Although it feels like a backwards step, it is ok to work on the basics. I also enjoy reading and watching AI content. I have a genuine interest in this area, the thought of working withAI and building AI gives me serious excitment. 
 
-## Day 34: September 9, 2018
+## Day 35: September 9, 2018
 
 Today's Progress: Continued to dedicated the day to learning about matrix on khan academy
 
 Thoughts: I really enjoy math, I wish I had pursued it more in Univeristy. There is not time like the present I guess. 
 
-## Day 35: September 10, 2018
+## Day 36: September 10, 2018
 
 Today's Progress: Nearly there with matrix got up at 5am to work on it should be done by tomorrow
 
 Thoughts: It is interesting on the days that I don't actually look at any machine learning content and just focus on the math I still enjoy it. Really enjoy it. I just can't wait until I'm creating my own analysis and solving my own problems. Although I know it will take time.
 
-## Day 36: September 11, 2018
+## Day 37: September 11, 2018
 
 Today's Progress: All done with matrices basics finished them tonight passed tests and ready to dive back into linear algebra. 
 
@@ -263,7 +263,7 @@ Thoughts: Feeling great about maths, you know when you have those moments when e
 
 I was still feeling quite tired from the range review presentation at work yesterday so studying at night and getting the motivation was hard, but I managed to get through that feeling and put in some good study. 
 
-## Day 37: September 11, 2018
+## Day 38: September 12, 2018
 
 Today's progress: Quick review of vector basics to make sure I understand basic operations, then back into linear alegbra finalising dot and cross product and ready to move into Matrices in linear algebra :)
 
