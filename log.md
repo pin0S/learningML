@@ -268,3 +268,9 @@ I was still feeling quite tired from the range review presentation at work yeste
 Today's progress: Quick review of vector basics to make sure I understand basic operations, then back into linear alegbra finalising dot and cross product and ready to move into Matrices in linear algebra :)
 
 Thoughts: This [video](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=3) = the best video for helping you to understand linear transformations! I just couldn't conceptualise it from reading Strang or even Khan academy then bam! I better understood it, although I don't doubt I will have to watch it again. This shows me that utilising a combo of resources is how I learn, I need to view something from differnet angles to better understand it. 
+
+## Day 39: September 13, 2018
+
+Today's progress: Pushing my way through matrices, got through one lecture on khan academy after my alarm went off late
+
+Thoughts: I know I have been harping on about this but things are clicking. It has made me realise that going though the math is so fundamental to understanding the underlying concepts of machine learning. Going through the pain now will pay off massively down the track is my assumption. 
