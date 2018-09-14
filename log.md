@@ -274,3 +274,9 @@ Thoughts: This [video](https://www.youtube.com/watch?v=kYB8IZa5AuE&list=PLZHQObO
 Today's progress: Pushing my way through matrices, got through one lecture on khan academy after my alarm went off late
 
 Thoughts: I know I have been harping on about this but things are clicking. It has made me realise that going though the math is so fundamental to understanding the underlying concepts of machine learning. Going through the pain now will pay off massively down the track is my assumption. 
+
+## Day 40: September 14, 2018
+
+Today's progress: Worked my way through row echelon and why it is useful. All this work makes it so much easier actually understanding what Andrew Ng is talking about. 
+
+Thoughts: The first 40 days have been fantastic, I'm looking forward to my holiday but I also can't wait to get back into it. Feeling really determined to get this done and ensure I keep my positive self talk up that I can learn the math and that I will get to where I want to go and that is making my own deep learning problemns! 
