@@ -280,3 +280,11 @@ Thoughts: I know I have been harping on about this but things are clicking. It h
 Today's progress: Worked my way through row echelon and why it is useful. All this work makes it so much easier actually understanding what Andrew Ng is talking about. 
 
 Thoughts: The first 40 days have been fantastic, I'm looking forward to my holiday but I also can't wait to get back into it. Feeling really determined to get this done and ensure I keep my positive self talk up that I can learn the math and that I will get to where I want to go and that is making my own deep learning problemns! 
+
+## Day 41: October 2, 2018
+
+Today's Progress: Completed the linear alegebra section of the Andrew Ng course
+
+Thoughts: I feel so recharged after my two weeks holiday in NZ. It is going to take a little bit of time to get back into the routine and get the brain pumping again but I'm excited about the next 60 days. 
+
+I can't believe I missed the linear algebra section in the course the first time through!!! I'm lucky I went back to revise it. Now my plan for the week is to see how much of the course I understand after all my maths work so revision is big this week. After spending a little time on it already I realise that I shouldn't be just forcing myself forward, I should be ensuring I understand what is going on before I move on. 
