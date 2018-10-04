@@ -288,3 +288,9 @@ Today's Progress: Completed the linear alegebra section of the Andrew Ng course
 Thoughts: I feel so recharged after my two weeks holiday in NZ. It is going to take a little bit of time to get back into the routine and get the brain pumping again but I'm excited about the next 60 days. 
 
 I can't believe I missed the linear algebra section in the course the first time through!!! I'm lucky I went back to revise it. Now my plan for the week is to see how much of the course I understand after all my maths work so revision is big this week. After spending a little time on it already I realise that I shouldn't be just forcing myself forward, I should be ensuring I understand what is going on before I move on. 
+
+## Day 42: October 3, 2018
+
+Today's Progress: Continued revision got most of the way through week 2
+
+Thoughts: Revision again has been fantastic, I did stumble upon an awesome video https://www.youtube.com/watch?v=Sc7RiNgHHaE. The work done in this video the exploration and the trial and error really interests me, it's why I wanted to get into ML to work on cool an engaging projects like this. 
