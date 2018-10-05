@@ -294,3 +294,17 @@ I can't believe I missed the linear algebra section in the course the first time
 Today's Progress: Continued revision got most of the way through week 2
 
 Thoughts: Revision again has been fantastic, I did stumble upon an awesome video https://www.youtube.com/watch?v=Sc7RiNgHHaE. The work done in this video the exploration and the trial and error really interests me, it's why I wanted to get into ML to work on cool an engaging projects like this. 
+
+## Day 43: October 4, 2018
+
+Today's Progress: Week 2 nearly done for revision
+
+Thoughts: Getting the feeling of creativity back, having some great ideas for what I want to do with Machine learning after I'm done with the basics. It's funny because with all the time I am spending learning I don't have time for one of my favourite past times gaming, but soon hopefully I will be able to automate a machine to do my gaming for me ha. 
+
+As I take my time and go back through the course I feel like I am really grasping the concepts, redoing the assignments which I initally struggled with should be a strong litmus test for where I am at. 
+
+## Day 44: October 5, 2018
+
+Today's Progress: All bar one video for week 2 left to go then I am on to week 3
+
+Thoughts: I want to finish week three tomorrow so I can do the assignment and really test where I am at. Going to be a busy weekend, I have a lot to think about espically with the job opportunity curve ball I've been through at work which would essentially mean less time for coding :( but a really good opportunity none the less and I should be able to make it work. 
