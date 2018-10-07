@@ -308,3 +308,9 @@ As I take my time and go back through the course I feel like I am really graspin
 Today's Progress: All bar one video for week 2 left to go then I am on to week 3
 
 Thoughts: I want to finish week three tomorrow so I can do the assignment and really test where I am at. Going to be a busy weekend, I have a lot to think about espically with the job opportunity curve ball I've been through at work which would essentially mean less time for coding :( but a really good opportunity none the less and I should be able to make it work. 
+
+## Day 45: October 6, 2018
+
+Today's Progress: Week 2 done and throughly I would say so
+
+Thoughts: Revision is smart, but I am also leaning towards finding a project to start soon. Either training a game or chat bot is what I am leaning towards. 
