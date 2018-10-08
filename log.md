@@ -322,3 +322,9 @@ Today's Progress: Worked on the first assignment make sure I understood what was
 Thoughts: Spending time working on the assignment is hugely benefical, I feel more ready to tackle the next section tomorrow and then to move onto week 3, hopefully I can get to neural nets by mid week. However, I'm not going to rush it this time but rather make sure I understand what is going on. 
 
 Machine learning is such a cool world and I want to make great projects. However, I know I am going to have to take it slow and work my way up to doing those great projects. I might even study again...
+
+## Day 47: October 8, 2018
+
+Today's Progress: Continued with the extra credit work on the first assignment, only got through the first part feature scaling which I'm happy about as I am really starting to get better at Octave and understanding what the code is doing
+
+Thoughts: Although I am tempted to keep going with the lectures and revision, I have to stop myself and remember that the hard work now and the slow progress is ok. As progress is progress and the knowledge is really sinking in. 
