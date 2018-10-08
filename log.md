@@ -314,3 +314,11 @@ Thoughts: I want to finish week three tomorrow so I can do the assignment and re
 Today's Progress: Week 2 done and throughly I would say so
 
 Thoughts: Revision is smart, but I am also leaning towards finding a project to start soon. Either training a game or chat bot is what I am leaning towards. 
+
+## Day 46: October 7, 2018
+
+Today's Progress: Worked on the first assignment make sure I understood what was happening with the code and the equations
+
+Thoughts: Spending time working on the assignment is hugely benefical, I feel more ready to tackle the next section tomorrow and then to move onto week 3, hopefully I can get to neural nets by mid week. However, I'm not going to rush it this time but rather make sure I understand what is going on. 
+
+Machine learning is such a cool world and I want to make great projects. However, I know I am going to have to take it slow and work my way up to doing those great projects. I might even study again...
