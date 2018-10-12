@@ -328,3 +328,25 @@ Machine learning is such a cool world and I want to make great projects. However
 Today's Progress: Continued with the extra credit work on the first assignment, only got through the first part feature scaling which I'm happy about as I am really starting to get better at Octave and understanding what the code is doing
 
 Thoughts: Although I am tempted to keep going with the lectures and revision, I have to stop myself and remember that the hard work now and the slow progress is ok. As progress is progress and the knowledge is really sinking in. 
+
+## Day 48: October 9, 2018
+
+Today's Progress: Finished the assignment and took detailed notes on how I figured out each section
+
+Thoughts: The assignment was still hard but I learnt a lot more this time around than the first time I attempted it. That was through understanding the octave code and the maths behind it
+
+## Day 49: October 10, 2018
+
+Today's progress: Logistic regression revision continued 
+
+Thoughts: As I update my notes, I can see I rushed through/half arsed the note taking the first time. Big time lesson that keeps coming home to roost is that if I don't understand something I need to stop and spend time to understand it before I move on. As the next video is unlikely to explain it as it assumes I've understood the past video. 
+
+## Day 50: October 11, 2018 
+
+Todays progress: Went through logistic regress so I had a solid understanding of it
+
+Thoughts: This video for logistic regression is an absolute gem https://www.youtube.com/watch?v=BfKanl1aSG0. I has really helped my understand what is going on with the sigmoid function and how to get to the final product
+
+## -- missed my first day in a long time work too crazy + hung over :( --
+
+## Day 51: October 13, 2018
