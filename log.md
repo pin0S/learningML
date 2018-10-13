@@ -350,3 +350,13 @@ Thoughts: This video for logistic regression is an absolute gem https://www.yout
 ## -- missed my first day in a long time work too crazy + hung over :( --
 
 ## Day 51: October 13, 2018
+
+Today's progress: Finished week 3 revision and started assignment 3 (got up to predict.m) have regularization to go
+
+Thoughts: A big thought struck me just a I started writing this, sometimes I need to step away from the problem and understand what it is I am trying to accomplish. A great example of this is the predict.m part of assigment 3, I was trying to run control statements to see is p was 0 or 1 not really understanding what 1 or 0 was (it is True or False) and I didn't really understand how to create a vector of these (as we are running vectorized solutions, it will automatically do this for me (p = predict(theta, X))).
+
+Understanding what the code is doing, what has become before the code I just wrote will also really help. Such as the code in ex2.m using fminunc which gives us theta which is then used to determine p as p = 1./e+.^z or simply sigmoid(theta*X) which looks like z=W0+W1*ExamScore1+W2*ExamScore2
+
+In the example assigment this is -25.161 + 0.206*ExamScore1 + 0.201*ExamScore2
+
+Anyway the main point is I need to step back and understand what I want my output to be and y, then I determine which steps I need to take to get my output. 
