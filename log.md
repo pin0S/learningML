@@ -360,3 +360,21 @@ Understanding what the code is doing, what has become before the code I just wro
 In the example assigment this is -25.161 + 0.206*ExamScore1 + 0.201*ExamScore2
 
 Anyway the main point is I need to step back and understand what I want my output to be and y, then I determine which steps I need to take to get my output. 
+
+## Day 52: October 14, 2018
+
+Today's Progress: Finished the assignment with regularization 
+
+Thoughts: I struggled with regularization, I understand the concept that it is to reduce overfitting it can improve the generalization performance, i.e., the performance on new, unseen data, which is exactly what we want. 
+
+More here: [logistic regression KD nuggets](https://www.kdnuggets.com/2016/06/regularization-logistic-regression.html)
+
+I'm going to spend a night this week revising it and better understanding it. Very excited to try Neural Networks again. Also the book is going well and I don't feel as if it is taking away from my ML work. 
+
+## Day 53: October 15, 2018
+
+Today's Progress: Started week 4 got through the first two videos and started Model Representation I
+
+Thoughts: My understanding of how I learn and how to learn effectively is a lot better at the moment. As soon as I don't understand something I use more resources to better understand it. 
+
+Example is how the R^N of a netural net is worked out. Have notes to write up tonight but I am feeling confident of moving past it this time and hopefully onto making my own projects. 
