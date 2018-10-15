@@ -378,3 +378,15 @@ Today's Progress: Started week 4 got through the first two videos and started Mo
 Thoughts: My understanding of how I learn and how to learn effectively is a lot better at the moment. As soon as I don't understand something I use more resources to better understand it. 
 
 Example is how the R^N of a netural net is worked out. Have notes to write up tonight but I am feeling confident of moving past it this time and hopefully onto making my own projects. 
+
+## Day 54: October 16, 2018
+
+Today's Progress: Model Representation II done
+
+Thoughts: I have a lot a of thoughts about how much better a job I am doing taking notes. I've found a real rhythm in my rountine, lately. The Power of habit helped me out tremdously in understanding how to form a habbit. Also my focus and concerntration in the time I spend studying is more strong than before. I think this has improved for a few reasons:
+
+1. Nootropics 
+2. Building up my focus muscle 
+3. Having a clear understanding of how I best learn and now implementing it - these keeps me on track and stops the feeling of feeling too lost
+
+It's still hard working a full time job, trying to write a book as my side hustle and to learn machine learning in the middle of all that. But I want it, I want it more than I want to breathe, it is probably what I want the most out of anything at the moment. I've noticed I don't care about TV shows, NBA games or other distractions anymore I just want to spend my time learning. This makes it incredibly hard stay focused at work and I need to start implementing rules at work too keep me focused.  
