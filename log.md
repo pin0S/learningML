@@ -390,3 +390,13 @@ Thoughts: I have a lot a of thoughts about how much better a job I am doing taki
 3. Having a clear understanding of how I best learn and now implementing it - these keeps me on track and stops the feeling of feeling too lost
 
 It's still hard working a full time job, trying to write a book as my side hustle and to learn machine learning in the middle of all that. But I want it, I want it more than I want to breathe, it is probably what I want the most out of anything at the moment. I've noticed I don't care about TV shows, NBA games or other distractions anymore I just want to spend my time learning. This makes it incredibly hard stay focused at work and I need to start implementing rules at work too keep me focused.  
+
+## Day 55: October 17, 2018
+
+Todya's Progress: Examples and Intutitions I & II complete, understanding of XNOR also done
+
+Thoughs: The idea that a Neural Network can create it's own features is really cool. 
+
+I need to work more on understanding why Andrew is showing us the XNOR lessons - so going to do some video watching and reading tonight :)
+
+There are so many cool things you can do with Neural Nets and as I learn I'll get a better sense for what I want to do. I already have a lot of projects I'm interested in. Was thinking last night about a neural net for hearth stone, that can add nodes as players pick up cards to estimate the probability of their next move. 
