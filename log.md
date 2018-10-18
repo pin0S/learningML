@@ -393,10 +393,26 @@ It's still hard working a full time job, trying to write a book as my side hustl
 
 ## Day 55: October 17, 2018
 
-Todya's Progress: Examples and Intutitions I & II complete, understanding of XNOR also done
+Today's Progress: Examples and Intutitions I & II complete, understanding of XNOR also done
 
 Thoughs: The idea that a Neural Network can create it's own features is really cool. 
 
 I need to work more on understanding why Andrew is showing us the XNOR lessons - so going to do some video watching and reading tonight :)
 
 There are so many cool things you can do with Neural Nets and as I learn I'll get a better sense for what I want to do. I already have a lot of projects I'm interested in. Was thinking last night about a neural net for hearth stone, that can add nodes as players pick up cards to estimate the probability of their next move. 
+
+## Day 56: October 18, 2018
+
+Today's Progress: Revision for week 4 done - watched first [video](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO) in this series by Luis Serrano will watch the rest on the weekend
+
+Thoughts: I have a good grasp on how Neural Networks work at the level I need to be at the moment. The hard part will be implementing it in my assignment which I am going to start tomorrow. 
+
+When I watched Luis first video I need to pause to understand how the matrix multiplication works as my brain is not yet quick enough at comprehending that. I believe it will come with time and the good thing is I am able to understand it even though I have to stop pause and think about it. 
+
+The idea of building something new is really exciting to me, I want to be a part of doing things for the good of humanity and I have a lot of ideas such as a computer vision program that monitors how long food has been in your fridge and sends you notification that you should eat it soon to reduce the massive food waste issue in the world. 
+
+## Day 57: October 19, 2018
+
+Today's Progress: Started Assignment 4 - spent a lot of time understanding the visualistion section of the code
+
+Thoughts: Unproductive morning, I definitely feel tired. Undecided if I jump back in at night or take a night off to rest. I guess we will see if I update the log or not. 
