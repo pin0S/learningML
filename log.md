@@ -416,3 +416,13 @@ The idea of building something new is really exciting to me, I want to be a part
 Today's Progress: Started Assignment 4 - spent a lot of time understanding the visualistion section of the code
 
 Thoughts: Unproductive morning, I definitely feel tired. Undecided if I jump back in at night or take a night off to rest. I guess we will see if I update the log or not. 
+
+## Day 58: October 21, 2018
+
+Today's Progress: Finished assignment 4 and started on week 5 getting the first video done
+
+Thoughts: Feeling really lost at the moment, had the high of writing the blog post yesterday and now have this odd low of not knowing where I am at or that I'm not good enough to do this. 
+
+I think part of it is my boredom at work and not feeling challenged and not knowing my next move. A lot of confusion and agendas coming from others on what I should do. Really shits me. 
+
+Machine learning is a good constant, but the struggle is so real with the assignments. Potentially how they are worded. I'm going to push through this week as I understand the material and it is mainly just the assignments I really struggle with. Also going to invest a bit more time this week in researching my next move for work. Definitely need to get out and network. 
