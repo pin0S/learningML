@@ -426,3 +426,13 @@ Thoughts: Feeling really lost at the moment, had the high of writing the blog po
 I think part of it is my boredom at work and not feeling challenged and not knowing my next move. A lot of confusion and agendas coming from others on what I should do. Really shits me. 
 
 Machine learning is a good constant, but the struggle is so real with the assignments. Potentially how they are worded. I'm going to push through this week as I understand the material and it is mainly just the assignments I really struggle with. Also going to invest a bit more time this week in researching my next move for work. Definitely need to get out and network. 
+
+## Day 59: October 22, 2018
+
+Today's Progress: Another video in the series backpropagation and cost function 
+
+Thoughts: The backpropagation video was a lot to take in, I get the basic idea of adjusting the error as we train the neural network, what I struggled with was the exact process. I will review the video and the notes tonight and it should become a lot more clear. 
+
+I'm starting to feel confident enough to follow Jabrils advice and just start with a basic feed forward neural network that picks the colour text to put on a coloured box. 
+
+I also read a really good article today on the skills employers are looking for when employing a data scientist, the main skill is analysis. That is being able to dervie insights from data, something I think I was quite good at when at Forethought and now at Unilever. It makes me think, it may be work looking to see what the data science team is like in the USA. 
