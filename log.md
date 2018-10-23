@@ -436,3 +436,11 @@ Thoughts: The backpropagation video was a lot to take in, I get the basic idea o
 I'm starting to feel confident enough to follow Jabrils advice and just start with a basic feed forward neural network that picks the colour text to put on a coloured box. 
 
 I also read a really good article today on the skills employers are looking for when employing a data scientist, the main skill is analysis. That is being able to dervie insights from data, something I think I was quite good at when at Forethought and now at Unilever. It makes me think, it may be work looking to see what the data science team is like in the USA. 
+
+## Day 60: October 23, 2018
+
+Today's Progress: Worked through putting together a neural network and learn't why we randomise our weights/parameters 
+
+Thoughts: Interesting putting the feed forward and back prop networks together. I'm watching the rest of Luis Seranno's series tonight to better help me understand. 
+
+All day at work I think about Machine Learning and wanting to be learning about it. I'm not sure if it is because I am truely interested in it or it is because I'm just not enjoying what Im doing?
