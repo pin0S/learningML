@@ -444,3 +444,22 @@ Today's Progress: Worked through putting together a neural network and learn't w
 Thoughts: Interesting putting the feed forward and back prop networks together. I'm watching the rest of Luis Seranno's series tonight to better help me understand. 
 
 All day at work I think about Machine Learning and wanting to be learning about it. I'm not sure if it is because I am truely interested in it or it is because I'm just not enjoying what Im doing?
+
+## Day 61: October 24, 2018
+
+Today's Progress: Today I worked on the final videos in the weeks lessons and completed the quiz 
+
+Thoughts: I've flown through the materials this week and it is either because there were less materials or I don't full understand the concepts, the assignment will show me which is correct.
+
+## Day 62: October 25, 2018
+
+Today's Progress: Today I worked on the assignment, I implemented unregularised cost function for FP NN
+
+Thoughts: The assignments are challenging the tutorials make them a little easier
+
+## Day 63: October 24, 2018
+
+
+Today's Progress: Today I worked on the assignment I implemented a regularised cost function and sigmoid gradient functions, I also progressed through writing the gradient descent section of the code
+
+Thoughts: The gradient descent part of the assignment has been quite hard, the positive is that it has taught me to better understand Octave and what the equation for gradient descent actually means. I want to do a video series to help others understand all people read the equations and convert them into Octave code.
