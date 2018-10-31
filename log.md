@@ -457,9 +457,42 @@ Today's Progress: Today I worked on the assignment, I implemented unregularised 
 
 Thoughts: The assignments are challenging the tutorials make them a little easier
 
-## Day 63: October 24, 2018
-
+## Day 63: October 26, 2018
 
 Today's Progress: Today I worked on the assignment I implemented a regularised cost function and sigmoid gradient functions, I also progressed through writing the gradient descent section of the code
 
 Thoughts: The gradient descent part of the assignment has been quite hard, the positive is that it has taught me to better understand Octave and what the equation for gradient descent actually means. I want to do a video series to help others understand all people read the equations and convert them into Octave code.
+
+## Day 64: October 27, 2018
+
+Today's Progress: Today I completed the assignment for week 5
+
+Thoughts: Great assignment and the creating content for others to use has been really beneficial in reinforcing my learning (see what I did there).
+
+## Day 65: October 29, 2018
+
+Today's Progress: I started the lectures for week 6
+
+Thoughts: Today was exciting as I actually wanted to jump in and learn about bias and variance. The fundamentals excite me and I want to learn about them so I can proactively improve my models. 
+
+## Day 66: October 30, 2018
+
+Today's Progress: Half way through the lectures for week 6
+
+Thoughts: I stupidly left my notebook in Melbourne so I'm going to have to transfer my notes over! I was tired this morning though and my focus was lacking so I don't see it as a bad thing and will hopefully help me retain it. 
+
+Revision is a habit I need to better form in my work.
+
+## Day 67: October 31, 2018
+
+Today's Progress: Finished the lectures for week 6 and passed the quiz (4/5) will revisit  
+
+Thoughts: Was a good feeling passing the quiz on the first attempt. After 60 days of slogging it out, I feel like it is starting to click and my knowledge is strong. Once the smaller things like what symbols mean and what a certain terms mean eg. (coefficent, polynomial) it frees up my headspace for the more important concepts. I wish there was a inital week on basics of maths or something like that so that I'm hitting the ground running in the first week focusing on the bigger picture items. 
+
+## Day 68: November 1,  2018
+
+Today's Progress: Started on the notes transfer and revision will finish tonight
+
+Thoughts: Revision is great, I understand bias and variance a lot better. 
+
+Also - skipping before I start really helps me focus and wakes me up so I'm not wasting time in the morning 
