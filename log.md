@@ -496,3 +496,23 @@ Today's Progress: Started on the notes transfer and revision will finish tonight
 Thoughts: Revision is great, I understand bias and variance a lot better. 
 
 Also - skipping before I start really helps me focus and wakes me up so I'm not wasting time in the morning 
+
+## Day 69: November 2,  2018
+
+Today's Progress: Finished the first two sections of the assignment
+
+Thoughts: It is encouraging to see that when I have to implement previous snippets of code and formulas from past examples I am able to do so with reasonable understanding of how to do it and what it is doing.
+
+## Day 70: November 3,  2018
+
+Today's Progress: Only completed one section of the assignment
+
+Thoughts: Urgh...hungover, why do I do it to myself. Felt like such a wasted day, fell asleep trying to watch a series on neural networks. 
+
+## Day 71: November 4,  2018
+
+Today's Progress: Finished the assignment and got through videos on system design (error analysis, error metrics for skewed classes, trading percision and recall and data for ML)
+
+Thoughts: Really productive day, I also enjoy the fundamentals of modelling. It is nice to understand how to improve the model and how to design the solution. 
+
+Solution design is perhaps the most daunting part of the whole process. I like that Andrew says he spends at most 24 hours gettting together a quick and dirty solution, it really speaks to my personal preferance for how to get things done. This weeks lectures and material I have really enjoyed although I will definitely need to review in next weekend. 
