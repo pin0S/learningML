@@ -516,3 +516,17 @@ Today's Progress: Finished the assignment and got through videos on system desig
 Thoughts: Really productive day, I also enjoy the fundamentals of modelling. It is nice to understand how to improve the model and how to design the solution. 
 
 Solution design is perhaps the most daunting part of the whole process. I like that Andrew says he spends at most 24 hours gettting together a quick and dirty solution, it really speaks to my personal preferance for how to get things done. This weeks lectures and material I have really enjoyed although I will definitely need to review in next weekend. 
+
+## Day 72: November 5,  2018
+
+Today's Progress: Started week 7 lectures
+
+Thoughts: I notice I am becoming a little distracted when studying the video lectures, I've decided to reduce the time spent on them for a few days as the information isn't being absorbed past one video.
+
+I'm going to reinforce some early learning with some more exciting and layman terms videos. Things like sentdex and Luis Seranno both of which I've mentioned previously. While my aim is still to finish the course within the 100 days which I think is entirely possible and I don't see myself missing, I also need to ensure I'm not just forcing my way through it but actually taking in what I'm learning and being able to understand the concepts to the point I can repeat it back to others. 
+
+## Day 73: November 6, 2018
+
+Today's Progress: Finished my one video, took good notes and watched the third video in Luis Seranno's intro to neural nets series
+
+Thoughts: Better day today, still struggling to focus. I am looking forward to tonights meet up
