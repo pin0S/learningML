@@ -530,3 +530,22 @@ I'm going to reinforce some early learning with some more exciting and layman te
 Today's Progress: Finished my one video, took good notes and watched the third video in Luis Seranno's intro to neural nets series
 
 Thoughts: Better day today, still struggling to focus. I am looking forward to tonights meet up
+
+## Day 74: November 7, 2018
+
+Today's Progress: Worked through the math behind SVM optimization
+
+Thoughts: All that early Khan academy work paid off, I already knew enough of the basics that when Andrew explained how it works for SVMs I was able to better comprehend it and then in turn I was able to spend more time on turly understanding the core concept he was trying to teach.
+
+I am going to start putting together some basics of Math blog post for my website that hopefully others can use as a resource, rather than going through every Khan academy video like I did. 
+
+I've been thinking a lot about what my capstone project should be and I'm coming to a few conclusions:
+1. Chatbot using south park scripts
+2. Inspirational quote generator using LTSM
+3. Using Open AI gym to train pac man or anthoner basic game
+
+## Day 75: November 8, 2019
+
+Today's Progress: Completed both kernel lectures 
+
+Thoughts: Kernels are a fantastic idea, using landmarks to create vetors of similarity is a really nice idea to then make a decision boundary. Looking forward to the assignment this week. 
