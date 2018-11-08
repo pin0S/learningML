@@ -544,8 +544,20 @@ I've been thinking a lot about what my capstone project should be and I'm coming
 2. Inspirational quote generator using LTSM
 3. Using Open AI gym to train pac man or anthoner basic game
 
-## Day 75: November 8, 2019
+## Day 75: November 8, 2018
 
 Today's Progress: Completed both kernel lectures 
 
 Thoughts: Kernels are a fantastic idea, using landmarks to create vetors of similarity is a really nice idea to then make a decision boundary. Looking forward to the assignment this week. 
+
+## Day 76: November 9, 2018
+
+Today's Progress: Finished all lectures on SVMs, Passed the Quiz 5/5, Watched MITOpencourse on SVM (really helpgul)
+
+Thoughts: Despite all the progress on the math and there has been a lot of progress, watching the MIT SVMs lecture made me realise I still have a way to go. It also made me realise I do enjoy maths and solving problems, so maybe more generally I enjoy problem solving which I guess is evident in a lot of parts of my life (in the things I enjoy in my job, the type of video games I like, what I like to self learn). 
+
+The idea of proofs doesn't sound exciting to me, although as I have never really tired perhaps I might enjoy it as I lean closer and closer to doing a gred certificate in statistics.
+
+SVMs are a really intuitive algorithm, it is easy to visualise a street and that each street may have a different width. It's  a cool algorithm and I'm looking forward to tackling the assignment this week and cementing my knowledge in the subject. 
+
+I also guess today marks the last 4 weeks of the challenge, I feel like I have formed a strong enough habit to continue even after the challenge. I perhaps just won't post about it daily. 
