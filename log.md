@@ -561,3 +561,19 @@ The idea of proofs doesn't sound exciting to me, although as I have never really
 SVMs are a really intuitive algorithm, it is easy to visualise a street and that each street may have a different width. It's  a cool algorithm and I'm looking forward to tackling the assignment this week and cementing my knowledge in the subject. 
 
 I also guess today marks the last 4 weeks of the challenge, I feel like I have formed a strong enough habit to continue even after the challenge. I perhaps just won't post about it daily. 
+
+## Day 77: November 12, 2018
+
+Today's Progress: Worked through the first two sections of the assignment for WK7
+
+Thoughts: Getting better with understanding the assignments, can't wait to get back to Python though once I finish the course. 
+
+I'm really glad I took the weekend off coding, brain definitely needed a refresh and I definitely have not been giving enough time to my family.
+
+## Day 78: November 13, 2018
+
+Today's Progress: Completed the assignment for WK7
+
+Thoughts: The hard part was understanding the pre-written code and what the str variable was doing, I'm still not totally sure how it loops or it it is implemented through vectorisation so I need to explore what was going on in part 3 tonight. 
+
+Will work my way through other lectures tonight, I am going to try and cram two weeks into one this week. Although not at the expense of not understanding. 
