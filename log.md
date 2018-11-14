@@ -577,3 +577,13 @@ Today's Progress: Completed the assignment for WK7
 Thoughts: The hard part was understanding the pre-written code and what the str variable was doing, I'm still not totally sure how it loops or it it is implemented through vectorisation so I need to explore what was going on in part 3 tonight. 
 
 Will work my way through other lectures tonight, I am going to try and cram two weeks into one this week. Although not at the expense of not understanding. 
+
+## Day 79: November 14, 2018
+
+Today's Progress: Started WK 8 lectures - 2 down
+
+Thoughts: Was not focused at all this morning, I am fixated on building a new PC to run my future ML projects which is stupid as I can't even run basic ones now but as they say the heart wants what the heart wants. 
+
+I did enjoy the lecture on K-means. Such a cool concept and unsupervised learning is what I am really excited about to be honest. My new book arrived Hands-On Machine Learning with Scikit-Learn and TensorFlow looking forward to getting into this after I've finished Andrew Ng's course. 
+
+Posting this [link](https://j253.github.io/blog/fun-with-nfl-stats.html) to remind me to do a project similar for NBA post my 100 days. 
