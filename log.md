@@ -587,3 +587,34 @@ Thoughts: Was not focused at all this morning, I am fixated on building a new PC
 I did enjoy the lecture on K-means. Such a cool concept and unsupervised learning is what I am really excited about to be honest. My new book arrived Hands-On Machine Learning with Scikit-Learn and TensorFlow looking forward to getting into this after I've finished Andrew Ng's course. 
 
 Posting this [link](https://j253.github.io/blog/fun-with-nfl-stats.html) to remind me to do a project similar for NBA post my 100 days. 
+
+## Day 80: November 15, 2018
+
+Today's Progress: Continued with WK 8 lecture another 2 down
+
+Thoughts: Again struggled with focus, I think I am getting tired of the lecture format and keep looking into the future on what I want to create. I need to remain paitent as I still do not know A LOT.
+
+## Day 81: November 16, 2018
+
+Today's Progress: Continued with more WK 8 lectures
+
+Thoughts: More focused today, going to rest tonight so I can power through over the weekend. 
+
+## Day 82: November 17, 2018
+
+Today's Progess: Got through all the lectures in WK 8, passed all the quizzes and finished the first 2 sections of the assignment
+
+Thoughts: Really productive day today even though I am still struggling to focus during the video lectures. 
+
+Listening to the OCDEVL podcast shallow algorithms part 1 really helped solidify some of the things I have been learning over the last few days, espically K-Means and PCA. It reminded me how important revision is and I have made that a focus for next weekend (if possible not sure how hectic the hackathon will be). I plan to make some cheat sheets on algorithms to help me in the future when I attempt to solve my own problems. 
+
+## Day 83: November 18, 2018
+
+Today's Progress: Finished the WK 8 assignment, finished the density estimation lectures. 
+
+Thoughts: Another strong day, thanks to the OCDEVL podcast the day before I have a strong understanding of what I need to learn. It can feel a little aimless as you go through, Tyler really helps explain their importance to real world examples and how you might use them. That is not to say Andrew doesn't do the same, it is just good to hear it from another source. 
+
+Getting a bit tooey to open up my new book and start coding in Python. I really miss coding in Python everyday, I am definitely going to spend time on pybites when I finish this challenge. 
+
+Ordered RAM for my ML rig...getting a little excited :)
+
