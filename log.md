@@ -630,7 +630,7 @@ The intro to nn video was great for explaining in what I have been learning is w
 
 ## Day 85: November 20, 2018
 
-Today's Progress: First 2 sections of WK 9 assignment complete
+Today's Progress: First 3 sections of WK 9 assignment complete
 
 Thoughts: There were minimal tutorials available for these sections of the assignment and through trail and error I was able to get them to work, I think this shows great progress on my part. I am trying to be more gritty in life, something I think I lacked early on in my life. 
 
