@@ -620,7 +620,7 @@ Ordered RAM for my ML rig...getting a little excited :)
 
 ## Day 84: November 19, 2018
 
-Today's Progress: Finished all WK 9 lectures, watched 1 hour of intro to (nn)[https://www.youtube.com/watch?v=Gvq9sUHPgrc&index=6&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So]
+Today's Progress: Finished all WK 9 lectures, watched 1 hour of intro to [nn](https://www.youtube.com/watch?v=Gvq9sUHPgrc&index=6&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
 
 Thoughts: Massive day, I got through about 4 hours of lectures using the pomodoro technique. 
 
