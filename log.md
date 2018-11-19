@@ -618,3 +618,21 @@ Getting a bit tooey to open up my new book and start coding in Python. I really 
 
 Ordered RAM for my ML rig...getting a little excited :)
 
+## Day 84: November 19, 2018
+
+Today's Progress: Finished all WK 9 lectures, watched 1 hour of intro to (nn)[https://www.youtube.com/watch?v=Gvq9sUHPgrc&index=6&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So]
+
+Thoughts: Massive day, I got through about 4 hours of lectures using the pomodoro technique. 
+
+The topics covered were quite interesting, Gaussian distribution for anomaly dectection, content based recommendations, collaborative filtering and low rank matrix factorization. 
+
+The intro to nn video was great for explaining in what I have been learning is what. What I mean by that is; say in the cost function of linear regression what is calculus and why do we use it which is something Andrew sort of brushes over or I just missed. It really helped me as I am someone who likes to understand why something is happening and that helps me connect the dots for future work. 
+
+## Day 85: November 20, 2018
+
+Today's Progress: First 2 sections of WK 9 assignment complete
+
+Thoughts: There were minimal tutorials available for these sections of the assignment and through trail and error I was able to get them to work, I think this shows great progress on my part. I am trying to be more gritty in life, something I think I lacked early on in my life. 
+
+
+
