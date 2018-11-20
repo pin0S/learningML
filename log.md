@@ -634,5 +634,12 @@ Today's Progress: First 3 sections of WK 9 assignment complete
 
 Thoughts: There were minimal tutorials available for these sections of the assignment and through trail and error I was able to get them to work, I think this shows great progress on my part. I am trying to be more gritty in life, something I think I lacked early on in my life. 
 
+## Day 86: November 21, 2018
 
+Today's Progress: Last assingment finished! Only some lectures to go, started WK 10 nearly done with the lectures
 
+Thoughts: Yewwwww! I'm done with the assignments and can start switch back to beautiful, beautiful python. I'm really grateful for MOOC's and the 100 days of code challenge, I'm not sure I would have gotten as far as I have with the course without it. I never want to stop learning. 
+
+I'm looking forward to switching to books as I don't do very well with video, their is something about reading that helps my mind absorb information. 
+
+I've tentively penciled in another blog post on what Machine Learning is for someone who has no idea and no right to write about it ha. 
