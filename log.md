@@ -643,3 +643,13 @@ Thoughts: Yewwwww! I'm done with the assignments and can start switch back to be
 I'm looking forward to switching to books as I don't do very well with video, their is something about reading that helps my mind absorb information. 
 
 I've tentively penciled in another blog post on what Machine Learning is for someone who has no idea and no right to write about it ha. 
+
+## Day 87: November 22, 2018
+
+Today's Progress: Completed the final 3 lectures from WK 10 and passed the quiz
+
+Thoughts: Map reduce is something I had wondered a little about, especially when I watch things like OpenAI and Deepmind and wonder how they train their bots so quickly. It is now good to understand at a very basic level how they divide up their computational power. 
+
+I want to make some cheat sheets of all the algorithms and techniques I have been learning recently and put them on my blog for others to use. A really good revision technique for me and hopefully helpful to others. 
+
+Looking forward to reading HOML tonight. 
