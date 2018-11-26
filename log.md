@@ -653,3 +653,19 @@ Thoughts: Map reduce is something I had wondered a little about, especially when
 I want to make some cheat sheets of all the algorithms and techniques I have been learning recently and put them on my blog for others to use. A really good revision technique for me and hopefully helpful to others. 
 
 Looking forward to reading HOML tonight. 
+
+## DAY 88: November 23, 2018
+
+Today's Progress: Completed the entire Andrew Ng course
+
+Thoughts: I'm so proud of myself for completing this MOOC, I learn't so much and I'm going to start reinforcing my learning with personal projects.
+
+## DAY 89 & 90: November 24 & 25, 2018
+
+Today's Progress: Not so much progress on ML other than some article reading, I did spend a lot of time coding and picked up some awesome GitHub learnings 
+
+Thoughts: I want to do more hackathons, I learn't so much during the weekend and met some amazing people. The purpose was to help refugees and I now have a better understanding than I did before on the issues they face. I have so much empathy for these groups and really want to be involved again. 
+
+I worked on putting together a website for Techfugees, it is still very much a prototype. I was a little disappointed I didn't work in a larger group on solving issues directly related to refugees and that because of that I wasn't eligable to win (mostly because I am competitive) but I was there to help and I felt I did that. 
+
+It was particularly trying because my team member pulled out on the morning of the second day and it would have really helped if they let me know the day before they weren't going to be there. In the end I got it done and I can sit back and say I'm proud of what I achieved under the circumstances I achieved it. 
