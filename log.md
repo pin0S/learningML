@@ -689,3 +689,19 @@ Thoughts: Looking forward to starting on the first project in Python after I com
 Today's Progress: Completed the exercises at the end of chapter 1
 
 Thoughts: I love exercises at the end of chapters really helps me cement what I've learnt
+
+## Day 94: Novemeber 29, 2018
+
+Today's Progress: Started Chapter 2 of HOML 
+
+- learnt about ML project checklist and that I should use before starting any project
+- how to create workspace pg40
+- how to load data in to pandas (already knew but good refresher)
+- how to examine rows object.head()
+- how to get desription of categorical data
+- how to further examine attributes object.describe()
+- how to plot data
+
+Thoughts: Today was cool, I love using python, want to get better at jupyter notebooks and pandas. The book helps me achieve all these. 
+
+It also gives me good ideas for mini blog posts and even code snippets for my instagram 
