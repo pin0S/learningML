@@ -669,3 +669,23 @@ Thoughts: I want to do more hackathons, I learn't so much during the weekend and
 I worked on putting together a website for Techfugees, it is still very much a prototype. I was a little disappointed I didn't work in a larger group on solving issues directly related to refugees and that because of that I wasn't eligable to win (mostly because I am competitive) but I was there to help and I felt I did that. 
 
 It was particularly trying because my team member pulled out on the morning of the second day and it would have really helped if they let me know the day before they weren't going to be there. In the end I got it done and I can sit back and say I'm proud of what I achieved under the circumstances I achieved it. 
+
+## DAY 91: November 26, 2018
+
+Today's Progress: Started on Hand's on Machine Learning with Scikit-Learn and Tensorflow
+
+Thoughts: Going through chapter 1 was a great refresher from a lot of the Andrew Ng course. I also started to write up a post on what is machine learning and then another on what some of the challenges of Machine learning are. 
+
+I was really tired after the weekend but happy I got up and studied. 
+
+## Day 92: November 27, 2018
+
+Today's Progress: Completed chapter 1 of HOML
+
+Thoughts: Looking forward to starting on the first project in Python after I complete the exercises
+
+## Day 93: November 28, 2018
+
+Today's Progress: Completed the exercises at the end of chapter 1
+
+Thoughts: I love exercises at the end of chapters really helps me cement what I've learnt
