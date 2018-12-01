@@ -704,4 +704,17 @@ Today's Progress: Started Chapter 2 of HOML
 
 Thoughts: Today was cool, I love using python, want to get better at jupyter notebooks and pandas. The book helps me achieve all these. 
 
-It also gives me good ideas for mini blog posts and even code snippets for my instagram 
+It also gives me good ideas for mini blog posts and even code snippets for my instagram
+
+## Day 95: December 1, 2018
+
+Today's Progess: Work through the create a test set section of chapter 2 
+
+- leant how to use hash to split training set and test set
+- learnt how to use indexs to spilt training data and test set
+- learnt what stratified sampling is
+- learnt how the permutation method works in numpy
+
+Thoughts: A few months out of python has me doing a bit of reminder work, which actually reminds me I need to understand what iloc and loc does. 
+
+
