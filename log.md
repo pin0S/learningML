@@ -722,3 +722,9 @@ Thoughts: A few months out of python has me doing a bit of reminder work, which 
 Today's Progress: Understand how I need to daul boot my new PC, read through articles from Jason Brownlee - Machine Learning mastery
 
 Thoughts: A short day today, going to get back into HOML tomorrow. Love that this journey is going to take time.
+
+## Day 97: December 3, 2018
+
+Today's Progress: Worked on Chpt2 Plotting and exploring data as well as writing functions to clean data
+
+Thoughts: Nearly done with the challenge, not close to being done with this journey. 
