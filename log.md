@@ -717,4 +717,8 @@ Today's Progess: Work through the create a test set section of chapter 2
 
 Thoughts: A few months out of python has me doing a bit of reminder work, which actually reminds me I need to understand what iloc and loc does. 
 
+## Day 96: December 2, 2018
 
+Today's Progress: Understand how I need to daul boot my new PC, read through articles from Jason Brownlee - Machine Learning mastery
+
+Thoughts: A short day today, going to get back into HOML tomorrow. Love that this journey is going to take time.
