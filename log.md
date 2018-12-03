@@ -728,3 +728,16 @@ Thoughts: A short day today, going to get back into HOML tomorrow. Love that thi
 Today's Progress: Worked on Chpt2 Plotting and exploring data as well as writing functions to clean data
 
 Thoughts: Nearly done with the challenge, not close to being done with this journey. 
+
+## Day 98: December 4, 2018
+
+Today's Progress: Continued working through Chapter 2 
+
+So far I have learnt
+- how to create a transformation pipeline and set it up automatically for new instances
+- within this how to use feature scaling 
+- how to run a quick linear regression model using scikit-learn
+
+Thoughts: I'm still struggling a little with keeping up with the material, although I know if I keep being diligent looking up things when I don't understand and taking notes that I can look at in the future I will be ok. 
+
+I'm also setting up a project that will help me finally learn about OOP and classes within Python. I'm creating my own Pokemon Class, more on that to follow in a new repo. 
