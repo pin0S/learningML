@@ -741,3 +741,15 @@ So far I have learnt
 Thoughts: I'm still struggling a little with keeping up with the material, although I know if I keep being diligent looking up things when I don't understand and taking notes that I can look at in the future I will be ok. 
 
 I'm also setting up a project that will help me finally learn about OOP and classes within Python. I'm creating my own Pokemon Class, more on that to follow in a new repo. 
+
+## Day 99: Decemeber 5, 2018
+
+Today's Progress: Finished Chpt 2, setup a Github repo for Pokemon project mentioned yesterday and learnt more about python classes
+
+Thoughts:
+
+- Setting up a repo and jsut editing the README.md file is a really great way to learn the basics of git; I learnt to use git status, git add, git commit and git push. I also learnt how to setup a repo directly from my terminal without having to log into git. 
+
+- I need to work through chapter 2 with my own project using a kaggle competition, I definitely missed a few things and this will help me build out my notes.
+
+- I have a better understanding of classes and inheritence after today, I will put it into practice tomorrow as I create my first classes for my Pokemon project
