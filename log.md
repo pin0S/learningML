@@ -753,3 +753,21 @@ Thoughts:
 - I need to work through chapter 2 with my own project using a kaggle competition, I definitely missed a few things and this will help me build out my notes.
 
 - I have a better understanding of classes and inheritence after today, I will put it into practice tomorrow as I create my first classes for my Pokemon project
+
+## Day 100: Decemeber 6, 2018
+
+Today's Progress: Started putting into practice what I learnt in Chpt 2 by doing Kaggle Titanic Comp
+
+Thoughts: It is good practice using the book as a guide as I implement myself with a dataset that I can't directly compare, it forces me to think more about what I am doing. 
+
+Final thoughts: Can't believe I am done with the 100 days challenge. Obviously just the beginning and not the actual end. I have a lot of grand plans and I want to spend sometime planning them out over the next few week on a private Github. 
+
+Obviously my inital plan was very ambitious for someone of my level, espically the maths. Yet when I think back to where I started and where I am now it has been a massive leap forward. The basic literacy of maths was a massive barrier, I remember seeing my first equation in years and thinking I have no idea how that works. Now I do and I hope to pass the knowlege onto others. 
+
+If I was to start over and redo my plan, I would reduce the scope. I definitely wasted time in the beginning worrying that I wasn't progressing along with my inital plan unwilling to accept that it is too ambitious. Listening to podcast like OCDevL helped me understand that I don't need to dedicate weeks at a time to things like maths rather I should learn them concurrently. I will definitely update the scope/syllabus for beginners as well as my future syllabus.  
+
+Things I definitely want to work on are cheat sheets for algorithms, introductory posts to math and ML. 
+
+I will do a more indepth post of what I learnt and what I would change. 
+
+Thanks to all those who supported me and followed along!
